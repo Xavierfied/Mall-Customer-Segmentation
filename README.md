@@ -6,14 +6,14 @@ The core of the project is an unsupervised learning model built using K-Means cl
 
 The analysis successfully revealed five commercially relevant customer personas, providing a clear roadmap for tailored business strategies:
 
-VIP Customers (High Earners, High Spenders): The most valuable segment, ideal for loyalty programs and premium offers.
+- VIP Customers (High Earners, High Spenders): The most valuable segment, ideal for loyalty programs and premium offers.
 
-Frugal Spenders (High Earners, Low Spenders): Cautious customers who need targeted promotions to increase spending.
+- Frugal Spenders (High Earners, Low Spenders): Cautious customers who need targeted promotions to increase spending.
 
-Reckless Spenders (Low Earners, High Spenders): High-risk, high-reward customers likely influenced by trends.
+- Reckless Spenders (Low Earners, High Spenders): High-risk, high-reward customers likely influenced by trends.
 
-Regular Customers (Average Earners, Average Spenders): The stable, core customer base.
+- Regular Customers (Average Earners, Average Spenders): The stable, core customer base.
 
-Essential Needs Spenders (Low Earners, Low Spenders): Price-sensitive customers focused on necessities.
+- Essential Needs Spenders (Low Earners, Low Spenders): Price-sensitive customers focused on necessities.
 
 To demonstrate a practical application, the project also includes functionality to take the data of a new, unseen customer and instantly classify them into one of these five personas, enabling real-time, personalized marketing efforts.
